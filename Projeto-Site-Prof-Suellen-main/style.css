@@ -1,5 +1,20 @@
-body {
+header {
 
 background-color: #42276F;
+color:rgb(255, 255, 255);
+display: flex;
 
+
+
+}
+section{
+    background-color: #42276F;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
